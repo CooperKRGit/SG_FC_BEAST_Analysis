@@ -69,7 +69,7 @@ ylocs = c( -3852258, -3852333, -3852504, -3852484, -3852601, -3852470, -3852346,
 ```
 
 
-# Crunch the numbers
+# Run the coordinates through the BEAST algorithm
 
 ```{r}
 
