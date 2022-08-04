@@ -26,6 +26,7 @@ library("lubridate")
 
 ```
 
+# Source and sort the timeseries data
 
 ```{r}
 ##  A set of rasters from 1987-2022 was obtained from the TERN portal below:
